@@ -1,0 +1,29 @@
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  text-align: center;
+}
+
+.searchInput {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  width: 200px;
+}
+
+.searchBtn {
+  background: #4a90e2;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.searchLink {
+  text-decoration: none;
+  color: #4a90e2;
+  font-weight: bold;
+}
+
